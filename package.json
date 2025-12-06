@@ -29,7 +29,7 @@
     "@commitlint/config-lerna-scopes": "^19.0.0",
     "@commitlint/config-patternplate": "^19.1.0",
     "@commitlint/ensure": "^19.0.3",
-    "@commitlint/format": "^19.0.3",
+    "@commitlint/format": "^20.2.0",
     "@commitlint/lint": "^19.1.0",
     "@commitlint/load": "^19.2.0",
     "commitlint-config-jira": "^1.6.4",
