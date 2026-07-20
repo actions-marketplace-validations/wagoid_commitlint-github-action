@@ -57,7 +57,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-node": "^4.1.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.2.1",
     "husky": "^8.0.3",
@@ -66,6 +66,6 @@
     "prettier": "^2.8.4",
     "rollup": "^2.79.1",
     "testdouble": "^3.20.2",
-    "yaml": "^2.4.1"
+    "yaml": "^2.9.0"
   }
 }
